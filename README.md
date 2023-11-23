@@ -1,2 +1,2 @@
 # airuniversity
-Semester Project
+Semester Project for ict lab 
